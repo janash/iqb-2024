@@ -5,7 +5,22 @@
 	"build": { 
 		"context": "..",
 		"dockerfile": "Dockerfile"
+	},
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-toolsai.jupyter"
+			],
+
+			"settings": {
+					"python.defaultInterpreterPath": "/opt/conda/bin/python",
+					"python.languageServer": "Pylance"
+				}
+		}
 	}
+
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},

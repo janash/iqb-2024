@@ -1,9 +1,10 @@
-name: iqb-2024
+name: iqb-20242
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python=3.11
+  - pip
   - pandas
   - matplotlib
   - numpy
@@ -14,3 +15,5 @@ dependencies:
   - openbabel
   - mdanalysis
   - vina
+  - pip:
+    - rcsbsearchapi
