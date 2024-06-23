@@ -1,0 +1,21 @@
+name: iqb-2024
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - biopython 
+  - nglview
+  - rdkit
+  - openbabel
+  - mdanalysis
+  - swig
+  - boost-cpp 
+  - sphinx 
+  - sphinx_rtd_theme
+  - pip:
+    - vina
