@@ -13,9 +13,4 @@ dependencies:
   - rdkit
   - openbabel
   - mdanalysis
-  - swig
-  - boost-cpp 
-  - sphinx 
-  - sphinx_rtd_theme
-  - pip:
-    - vina
+  - vina
