@@ -15,5 +15,6 @@ dependencies:
   - openbabel
   - mdanalysis
   - vina
+  - ipywidgets>8
   - pip:
     - rcsbsearchapi
