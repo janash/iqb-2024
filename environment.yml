@@ -16,5 +16,7 @@ dependencies:
   - mdanalysis
   - vina
   - ipywidgets>8
+  - prolif
   - pip:
     - rcsbsearchapi
+    - pdb2pqr
