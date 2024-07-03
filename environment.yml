@@ -1,4 +1,4 @@
-name: iqb-20242
+name: iqb-2024
 channels:
   - conda-forge
   - defaults
@@ -20,3 +20,5 @@ dependencies:
   - pip:
     - rcsbsearchapi
     - pdb2pqr
+    - meeko
+    - py3Dmol
