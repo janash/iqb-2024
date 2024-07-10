@@ -9,6 +9,6 @@ Four notebooks and an environment have been set up for the IQB 2024 workshop, [P
 ## Notebooks
 
 1. Enzyme Commission Class with Ligands (EC_ligand_search.ipynb)
-2. Visualizing the Binding Site of a Protein-Ligand Complex (binding_site_investigation.ipynb)
-3. Modifying Ligands with RDKit(molecule_manipulation.ipynb)
+2. Modifying Ligands with RDKit(molecule_manipulation.ipynb)
+3. Docking Preparation (docking_preparation.ipynb)
 4. Docking with AutoDock Vina (docking_single_ligand.ipynb)
